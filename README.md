@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently learning *React Native*
 
-- 📫 How to reach me *mayurff75@gmail.com*
+- 📫 How to reach me *nikhilmahesh27@gmail.com*
 
-- ⚡ Fun fact *I am Funny*
+- ⚡ Fun fact *I play guitar*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
