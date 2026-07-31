@@ -1,64 +1,126 @@
+<div align="center">
 
-![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
-<h1 align="center">Hi 👋, I'm Nik</h1>
-                                  
-<h3 align="center">A passionate fullstack developer and an AI/ML enthusiast from India</h3>
+<img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif"/>
 
+# Hey 👋 I'm Nik
 
-- 🌱 I’m currently learning *React.js*
+### I teach computers to think and occasionally convince them to behave.
 
-- 📫 How to reach me *nikhilmahesh27@gmail.com*
-
-- ⚡ Fun fact *I play guitar*
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/nikhil-mahesh27/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nikhil-mahesh27/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/nik.fury.xD/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/nik.fury.xD/" height="30" width="40" /></a>
-<a href="https://instagram.com/nikhilmaheshh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nikhilmaheshh" height="30" width="40" /></a>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=700&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Engineer;Professional+Bug+Creator;Professional+Bug+Fixer;Coffee+%2B+Music+%2B+Code"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a> 
+*"It worked on my machine." — Me, moments before production.*
 
-  <!-- Added Tools -->
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-  </a> 
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/> 
-  </a> 
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-  </a> 
-</p>
+</div>
+
+---
+
+## 🧠 About Me
+
+```javascript
+class Nik {
+    constructor() {
+        this.code = ["TypeScript", "Python", "JavaScript"];
+
+        this.builds = [
+            "AI Applications",
+            "Backend Systems",
+            "Web Apps",
+            "Developer Tools",
+            "Random Weekend Projects"
+        ];
+
+        this.learning = [
+            "System Design",
+            "AWS",
+            "LLMs",
+            "Things I probably shouldn't rebuild from scratch"
+        ];
+
+        this.superpower = "Turning caffeine into software";
+
+        this.weakness = "One more feature..."
+    }
+}
+
+export default new Nik();
+```
+
+---
+
+## 🎮 Current Side Quests
+
+- 🤖 Teaching AI to be slightly less confused
+- ☁️ Learning enough AWS to make Jeff Bezos proud
+- 🌐 Building things nobody asked for but everyone ends up using
+- 🎸 Pretending to practice guitar instead of adding another feature
+- ☕ Debugging with coffee (it's basically a dependency)
+
+---
+
+## ⚡ My Tech Toolbox
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,typescript,js,html,css,react,vite,tailwindcss,bootstrap,nodejs,express,fastapi" />
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,mongodb,firebase,aws,docker,git,github,vscode,postman,netlify,discord" />
+
+</div>
+
+---
+
+## 🎵 Outside GitHub
+
+When I'm not staring at a terminal, you'll probably find me:
+
+🎸 Playing guitar
+
+🏸 Getting destroyed at badminton
+
+🎧 Listening to music while pretending it helps debugging
+
+🏔️ Looking for the next place to travel
+
+💭 Thinking about an app idea I'll probably start at 2 AM
+
+---
+
+## 📫 Ping Me
+
+<div align="center">
+
+<a href="mailto:nikhilmahesh27@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://linkedin.com/in/nikhil-mahesh27">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://instagram.com/nikhilmaheshh">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### Random Developer Quote
+
+> "There are only two hard things in Computer Science:
+>
+> Cache invalidation, naming things, and off-by-one errors."
+
+---
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+**Thanks for scrolling this far. Since you're here... star something ⭐**
+
+</div>
