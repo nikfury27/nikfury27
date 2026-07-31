@@ -16,7 +16,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 ```javascript
 class Nik {
@@ -49,7 +49,7 @@ export default new Nik();
 
 ---
 
-## 🎮 Current Side Quests
+## Current Side Quests
 
 - 🤖 Teaching AI to be slightly less confused
 - ☁️ Learning enough AWS to make Jeff Bezos proud
@@ -59,7 +59,7 @@ export default new Nik();
 
 ---
 
-## ⚡ My Tech Toolbox
+## My Tech Toolbox
 
 <div align="center">
 
@@ -73,7 +73,7 @@ export default new Nik();
 
 ---
 
-## 🎵 Outside GitHub
+##  Outside GitHub
 
 When I'm not staring at a terminal, you'll probably find me:
 
@@ -89,7 +89,7 @@ When I'm not staring at a terminal, you'll probably find me:
 
 ---
 
-## 📫 Ping Me
+##  Ping Me
 
 <div align="center">
 
